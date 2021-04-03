@@ -1,0 +1,13 @@
+C:\Users\Emilian\source\repos\Date\bin\Debug\netcoreapp3.1\Date.exe
+C:\Users\Emilian\source\repos\Date\bin\Debug\netcoreapp3.1\Date.deps.json
+C:\Users\Emilian\source\repos\Date\bin\Debug\netcoreapp3.1\Date.runtimeconfig.json
+C:\Users\Emilian\source\repos\Date\bin\Debug\netcoreapp3.1\Date.runtimeconfig.dev.json
+C:\Users\Emilian\source\repos\Date\bin\Debug\netcoreapp3.1\Date.dll
+C:\Users\Emilian\source\repos\Date\bin\Debug\netcoreapp3.1\Date.pdb
+C:\Users\Emilian\source\repos\Date\obj\Debug\netcoreapp3.1\Date.csprojAssemblyReference.cache
+C:\Users\Emilian\source\repos\Date\obj\Debug\netcoreapp3.1\Date.AssemblyInfoInputs.cache
+C:\Users\Emilian\source\repos\Date\obj\Debug\netcoreapp3.1\Date.AssemblyInfo.cs
+C:\Users\Emilian\source\repos\Date\obj\Debug\netcoreapp3.1\Date.csproj.CoreCompileInputs.cache
+C:\Users\Emilian\source\repos\Date\obj\Debug\netcoreapp3.1\Date.dll
+C:\Users\Emilian\source\repos\Date\obj\Debug\netcoreapp3.1\Date.pdb
+C:\Users\Emilian\source\repos\Date\obj\Debug\netcoreapp3.1\Date.genruntimeconfig.cache
